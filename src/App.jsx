@@ -3,7 +3,7 @@ import './App.css'
 import Header from './Components/Header'
 import Footer from './Components/Footer'
 import { Route, Routes } from 'react-router-dom'
-import LandingPage from './pages/LandingPage'
+import LandingPage from './Pages/LandingPage'
 import Home from './Pages/Home'
 import WatchHistory from './Pages/WatchHistory'
 function App() {
